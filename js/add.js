@@ -22,3 +22,7 @@ document.getElementById("submitGuess").addEventListener("click", () => {
     alert("El número es menor que " + numeroUsuario);
   }
 });
+
+document.getElementById('cambiarTema').addEventListener('click', () => {
+    alert('Funcionalidad de cambiar tema está en construcción');
+  });
